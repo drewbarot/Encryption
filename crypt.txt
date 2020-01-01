@@ -1,0 +1,4 @@
+Decrypter
+- Brute force all combinations
+- Use frequencies in the English language to determine mapping
+- Use mod calc to break shift apart
